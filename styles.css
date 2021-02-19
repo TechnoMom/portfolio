@@ -28,6 +28,17 @@ nav li {
     display: inline;
 }
 
+
+.contact ul {
+    list-style-type: none;
+    padding: 50px;
+}
+
+.contact li {
+    display: inline;
+}
+
+
 a:link {
     color: #60678c;
 }
