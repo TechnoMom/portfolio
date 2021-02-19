@@ -58,8 +58,6 @@ a:active {
 .photo img {
     float: right;
     max-width: 250;
-    border-color: #6a859e;
-    border-style: solid;
 }
 
 img {
