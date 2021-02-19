@@ -46,10 +46,13 @@ a:active {
 .photo {
     float: right;
     max-width: 250;
+    border-radius: 50%;
+    border-color: #6a859e;
+    border-style: solid;
 }
 
 img {
-    width: 100%;
+    width: 100%;    
  }
  .container {
     max-width: 500px;
