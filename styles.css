@@ -2,7 +2,7 @@ html {
     background-color: #c39fc3;
     color: #60678c;
     font-family: "EB Garamond", "Georgia", serif;
-    font-size: 16px;
+    font-size: 24px;
     margin: 20px;
     padding: 20px;
 }
@@ -86,4 +86,9 @@ a:active {
  }
  .nextbtn {
     right: 0;
+ }
+
+ footer {
+     font-family: "Montserrat", sans-serif;
+     font-size: 16px;
  }
