@@ -55,12 +55,12 @@ a:active {
     color: #c54989;
 }
 
-.photo img {
+.photo {
     float: right;
     max-width: 250;
 }
 
-img {
+.img {
     width: 100%;    
  }
  .container {
