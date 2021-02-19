@@ -55,7 +55,7 @@ a:active {
     color: #c54989;
 }
 
-.photo {
+.photo img {
     float: right;
     max-width: 250;
     border-radius: 50%;
