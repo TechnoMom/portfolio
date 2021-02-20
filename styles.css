@@ -15,8 +15,10 @@ head {
 
 }
 
+
+
 nav {
-    
+    text-align: center;
 }
 
 nav ul {
@@ -59,6 +61,13 @@ a:active {
 .photo img {
     float: right;
     max-width: 250;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .img {
